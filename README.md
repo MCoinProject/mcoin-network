@@ -1,1 +1,1 @@
-# litecoin.network
+# mcoin.network
